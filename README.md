@@ -5,14 +5,17 @@ I'm Lovecy Thomas. I have 6 years experience as a college tutor. During my tenur
 
 Skills: Excel/Matlab/Labview
 
-- 🌱 I’m currently learning SQL, Python, HTML 5 
 - 📫 How to reach me: lovecy.ssec@gmail.com 
 ### 🛠️ Tech Stack:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Microsoft_Excel_2013-2019_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/VBScript_Logo.png" height="40"/>
 </p>
 
 
