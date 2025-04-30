@@ -52,11 +52,10 @@ Welcome to my GitHub profile! I'm a former educator turned **Data Analyst** with
 As a former educator, I love breaking down complex data problems like I used to explain concepts to students—clearly and patiently! Outside of coding, I enjoy **[e.g., reading, hiking, or cooking]**.
 
 ## 📬 Get in Touch
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: [lovecy.ssec@gmail.com](lovecy.ssec@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/lovecy-data-analytics](https://www.linkedin.com/in/lovecy-data-analytics)
 
-Thanks for visiting! Excited to connect and build data-driven solutions together! 🚀
+Thanks for visiting! Excited to connect and build data-driven solutions together! 
 
 
 
