@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a former educator turned **Data Analyst** with
 - **[E-Commerce Sales Analysis](https://github.com/your-username/E-Commerce-Sales-Analysis)**: Ongoing project analyzing sales trends with Pandas and Tableau dashboards. *(Pinned, Shows Learning)*
 
 ## 🏆 Achievements
-- Completed **Data Analytics Bootcamp** at the University of Toronto, 2024.
+- Completed **Data Analytics Bootcamp** at the University of Toronto with EdX, 2025.
 - Transitioned from a career in education to data analytics through self-driven learning.
 - Delivered multiple end-to-end data projects, from data cleaning to cloud deployment.
 
@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a former educator turned **Data Analyst** with
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## 🎉 Fun Fact
-As a former educator, I love breaking down complex data problems like I used to explain concepts to students—clearly and patiently! Outside of coding, I enjoy **[e.g., reading, hiking, or cooking]**.
+As a former educator, I love breaking down complex data problems like I used to explain concepts to students—clearly and patiently! Outside of coding, I enjoy **reading, cooking and spending quality time with my family**.
 
 ## 📬 Get in Touch
 - 📧 Email: [lovecy.ssec@gmail.com](lovecy.ssec@gmail.com)
