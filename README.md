@@ -1,8 +1,5 @@
-# About me
-#### An Educator reskilling to Data Analyst
-Hi there,
-I'm Lovecy Thomas. I have 6 years experience as a college tutor. During my tenure, I was more inclined towards problematic subjects, such as, Signals and Systems , Signal Processing and Control Systems, which required a lot of analytical thinking. In addition, I was also responsible for maintaining student's records and progress. Being a class teacher, I had to analyse each student's performance and implement necessary corrective measures. I want to implement my these skills in the world of data that is dynamic. I am currently enrolled in Data Analytics Boothcamp, to actively enhance my skills in data analysis and visualization  through hands on projects.
-
+# Hi, I'm Lovecy!:wave:
+Welcome to my GitHub profile! I'm a former educator turned Data Analyst with a passion for leveraging data to solve real-world problems. After completing a Data Analytics Bootcamp at the University of Toronto, I’ve transitioned into data analytics, building projects that span machine learning, data visualization, and predictive modeling. I’m constantly learning and exploring new tools to create impactful solutions.
 
 
 
