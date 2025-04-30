@@ -34,8 +34,10 @@ Welcome to my GitHub profile! I'm a former educator turned **Data Analyst** with
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white)
 
 ## 🌟 Featured Projects
+- **[Smart Prediction of Mental Health](https://github.com/lovecy86/Smart_Prediction_of_Mental_Health)**: Built a CatBoost model to predict mental health treatment needs, deployed via Flask on AWS EC2. Leveraged Spark and Kaggle data. *(Pinned, End-to-End Workflow)*
+- **[Flight Price Analysis and API Integration](https://github.com/lovecy/Flight-Price-Analysis-and-API-Integration)**:Analyzed one year flight data (from Mrach 2025 till February 2026) for selective airports. The data was cleaned, validated, imported into Postgres and then loaded to the server via Flask. *(Pinned, High Impact)*
 - **[Credit Risk Analysis](https://github.com/your-username/Credit-Risk-Analysis)**: Developed a logistic regression model to predict loan repayment risk, achieving 99% accuracy on a peer-to-peer lending dataset. Used Pandas and Scikit-learn for analysis. *(Pinned, High Impact)*
-- **[Smart Prediction of Mental Health](https://github.com/your-username/Smart_Prediction_of_Mental_Outcomes)**: Built a CatBoost model to predict mental health treatment needs, deployed via Flask on AWS EC2. Leveraged Spark and Kaggle data. *(Pinned, End-to-End Workflow)*
+
 - **[Global Weather Analysis and Vacation Planner](https://github.com/your-username/WeatherPy-VacationPy)**: Visualized weather patterns for 500+ cities using OpenWeatherMap and Geoapify APIs, with interactive GeoViews maps. *(Pinned, API & Visualization)*
 - **[E-Commerce Sales Analysis](https://github.com/your-username/E-Commerce-Sales-Analysis)**: Ongoing project analyzing sales trends with Pandas and Tableau dashboards. *(Pinned, Shows Learning)*
 
