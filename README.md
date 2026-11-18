@@ -49,7 +49,7 @@ As a former educator, I love breaking down complex data problems like I used to 
 
 ## 📬 Get in Touch
 - 📧 Email: [lovecy.ssec@gmail.com](lovecy.ssec@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedIn.com/in/lovecythomas/(https://www.linkedIn.com/in/lovecythomas/)
+- 🔗 LinkedIn: [https://www.linkedIn.com/in/lovecythomas/](https://www.linkedIn.com/in/lovecythomas/)
 
 Thanks for visiting! Excited to connect and build data-driven solutions together! 
 
